@@ -11,7 +11,7 @@ resources:
       name: jasminInjodikaran/PowerAppsTestAutomation
       ref: master
       # Name of the GitHub OAuth ADO Service Connection
-      endpoint: https://github.com/jasminInjodikaran/PowerAppsTestAutomation/tree/master
+      endpoint: https://github.com/jasminInjodikaran/PowerAppsTestAutomation
 
 parameters:
  - name: image
